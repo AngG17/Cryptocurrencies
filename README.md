@@ -42,3 +42,6 @@ Use data visualizations to share findings about cryptocurrencies and which ones 
 
 ![scatter](https://user-images.githubusercontent.com/95720986/164995869-c94caced-4253-4d74-862a-56fb39c7b548.png)
 
+## Summary
+
+532 tradable cryptocurrencies have been identified.
